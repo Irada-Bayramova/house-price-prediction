@@ -48,6 +48,13 @@ Exploratory data analysis was performed to understand relationships between feat
 
 ---
 
+## Model evaluation
+
+- A Linear Regression model was used to predict house prices based on selected features.
+- The model was trained on the dataset and used to estimate house prices.
+
+---
+
 ## Key Insights
 
 - Living area is one of the most important factors affecting price  
